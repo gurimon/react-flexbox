@@ -1,0 +1,5 @@
+# react-flexbox
+
+## License
+
+MIT
